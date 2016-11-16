@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">RedSaki</string>
+    <string name="home">Home</string>
+
+    <string name="sort_hot">Hot</string>
+    <string name="sort_new">New</string>
+    <string name="sort_rising">Rising</string>
+    <string name="sort_controversial">Controversial</string>
+    <string name="sort_top">Top</string>
+
+    <string name="login">Login</string>
+    <string name="saved_list">Saved List</string>
+    <string name="search">Search</string>
+
+
+    <string name="category_saved">Saved</string>
+    <string name="category_upvoted">Upvoted</string>
+    <string name="category_downvoted">Downvoted</string>
+
+
+    <string name="loading_user_data">Loading user data</string>
+
+    <string name="search_in_this_subreddit">In this subreddit</string>
+    <string name="search_all_subreddit">All subreddit</string>
+    <string name="search_all_posts">All posts</string>
+
+    <string name="search_sort_relevance">Relevance</string>
+    <string name="search_sort_top">Top</string>
+    <string name="search_sort_new">New</string>
+    <string name="search_sort_comments">Comments</string>
+
+    <string name="search_filter_all_time">All time</string>
+    <string name="search_filter_past_hour">Past hour</string>
+    <string name="search_filter_past_24_hours">Past 24 hours</string>
+    <string name="search_filter_past_week">Past week</string>
+    <string name="search_filter_past_month">Past month</string>
+    <string name="search_filter_past_year">Past year</string>
+
+    <string name="subscribe">Subscribe</string>
+    <string name="unsubscribe">Unsubscribe</string>
+
+    <string name="login_message">You need to login to perform this function</string>
+
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+
+
+    <string name="user_title">User: @user</string>
+
+    <string name="up_button">Up vote</string>
+    <string name="down_button">Down vote</string>
+    <string name="save_button">Save</string>
+    <string name="share_button">Share</string>
+    <string name="comments_button">Show comments</string>
+
+    <string name="client_id">REDDIT CLIENT ID</string>
+</resources>
